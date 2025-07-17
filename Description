@@ -1,0 +1,35 @@
+💳 Credit Card Fraud Detection using Logistic Regression
+🧠 Project Overview
+This project implements a Logistic Regression model to detect fraudulent transactions from a credit card transaction dataset. The objective is to classify whether a given transaction is fraudulent or legitimate, based on anonymized transaction features.
+
+📂 Dataset
+Source: Kaggle - Credit Card Fraud Detection
+
+Size: 284,807 transactions
+
+Classes:
+
+0: Legitimate
+
+1: Fraudulent
+
+Features:
+
+28 anonymized principal components (V1 to V28)
+
+Time, Amount
+
+Class (Target)
+
+💡 Note: The dataset is highly imbalanced, with only ~0.17% of transactions labeled as fraud.
+
+🔍 Objectives
+Build a binary classification model using Logistic Regression.
+
+Handle class imbalance using under-sampling, over-sampling, or SMOTE.
+
+Evaluate model performance using appropriate metrics (since accuracy alone is misleading).
+
+Apply feature scaling to improve model convergence.
+
+
