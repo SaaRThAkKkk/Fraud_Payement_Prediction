@@ -45,22 +45,7 @@ This project focuses on building a machine learning model using **Logistic Regre
 - Tune hyperparameters like `max_iter`, `solver`, and regularization strength
 
 ### 3. Model Evaluation
-- Use confusion matrix, precision, recall, F1-score, and ROC-AUC
-- Visualize performance with ROC and precision-recall curves
-
----
-
-## 📈 Sample Results
-
-| Metric       | Value (Example) |
-|--------------|-----------------|
-| Precision    | 0.92            |
-| Recall       | 0.86            |
-| F1 Score     | 0.89            |
-| ROC-AUC      | 0.96            |
-
-> These values may vary depending on the preprocessing and model tuning.
-
+- Visualize performance with accuracy
 ---
 
 ## 🚀 How to Run the Project
